@@ -70,4 +70,10 @@ This repo contains a collection of coding exercises that helped me practice and 
 
 ---
 
+## Contribute🙌
+
+This is a personal learning repo, but feel free to fork it, open issues, or suggest improvements!
+If you're a beginner too, try solving the same problems and push your own versions.
+You can also add new challenges, refactor existing ones, or improve documentation — PRs are welcome! 💛
+
 
